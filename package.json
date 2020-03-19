@@ -1,0 +1,28 @@
+{
+  "name": "belajar-npm",
+  "version": "1.0.0",
+  "description": "ini project untuk belajar",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "master"
+  },
+  "keywords": [
+    "hnifmaghfur"
+  ],
+  "author": "Hanif Maghfur",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.2",
+    "moment": "^2.24.0",
+    "mv": "^2.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "url": "^0.11.0"
+  }
+}
