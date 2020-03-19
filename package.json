@@ -17,9 +17,14 @@
   "author": "Hanif Maghfur",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
     "formidable": "^1.2.2",
+    "hbs": "^4.1.0",
     "moment": "^2.24.0",
-    "mv": "^2.1.1"
+    "mv": "^2.1.1",
+    "mysql": "^2.18.1",
+    "tedious": "^8.0.1"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
