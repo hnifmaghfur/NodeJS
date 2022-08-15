@@ -46,5 +46,6 @@ http.createServer(function (req, res){
 
 
 console.log('Server running on http://localhost:8000');
+console.log("Hello World Git ok")
 
 
